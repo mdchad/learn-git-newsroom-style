@@ -13,8 +13,8 @@ Serving you daily printed news since before newspapers went online.
 * headline
 
 ## Culture
-* headline
-* headline
+* Battle of the bands!
+* Is your child in danger? Sudoku sweeping the nation
 
 ## Weekly Weather
 Sunday:    Rainy
