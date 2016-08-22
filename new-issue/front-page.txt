@@ -22,13 +22,13 @@ Serving you daily printed news since before newspapers went online.
 >>>>>>> ba32ffec4604b4a69d5da1202690c9930d7a22ed
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    Rainy
+Monday:    Sunny
+Tuesday:   Blizzard
+Wednesday: Drizzle
+Thursday:  Snowstorm
+Friday:    Clear
+Saturday:  Clear
 
 June 27, 2016
 25 cents
