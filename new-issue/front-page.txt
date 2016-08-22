@@ -13,8 +13,13 @@ Serving you daily printed news since before newspapers went online.
 * Rosevelt high school is organizing a track and field event
 
 ## Culture
+<<<<<<< HEAD
 * battle of the bands
 * 
+=======
+* Battle of the bands!
+* Is your child in danger? Sudoku sweeping the nation
+>>>>>>> ba32ffec4604b4a69d5da1202690c9930d7a22ed
 
 ## Weekly Weather
 Sunday:    REPLACE
