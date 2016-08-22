@@ -5,16 +5,16 @@ June 27, 2016
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
-* headline
+* cat show at a city center
+* cat stuck in tree
 
 ## Sports
-* headline
-* headline
+* highschool basketball : Moonauts 93-78 Crows
+* Rosevelt high school is organizing a track and field event
 
 ## Culture
-* headline
-* headline
+* battle of the bands
+* 
 
 ## Weekly Weather
 Sunday:    REPLACE
